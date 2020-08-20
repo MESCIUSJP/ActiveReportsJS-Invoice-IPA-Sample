@@ -1,0 +1,2 @@
+# ActiveReportsJS-Invoice-IPA-Sample
+ActiveReportsのシンプルな請求書のサンプルです。フォントは再配布可能なIPAゴシックを使用しています。
